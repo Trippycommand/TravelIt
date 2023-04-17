@@ -1,0 +1,9 @@
+// Future signIn() async {
+//     try {
+//       await FirebaseAuth.instance.signInWithEmailAndPassword(
+//           email: emailcController.text.trim(),
+//           password: passwordController.text.trim());
+//     } on FirebaseAuthException catch (e) {
+//       print(e);
+//     }
+//   }

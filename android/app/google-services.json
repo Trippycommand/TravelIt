@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689736533856",
+    "project_id": "travelling-app-544ca",
+    "storage_bucket": "travelling-app-544ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689736533856:android:a482ff163cfb540dba8005",
+        "android_client_info": {
+          "package_name": "com.aryan.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689736533856-d5ecidpqk3q9hc282buvn4a8lhoh7ro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhsfgN8Ha8pikOo87yn8DppfKR6mg4DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689736533856-d5ecidpqk3q9hc282buvn4a8lhoh7ro3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
